@@ -3,7 +3,7 @@
 * ADB Shell script to uninstall all bloated apps that comes with some Android TV's, that cannot be uninstalled using the TV UI with the remote
 
 # Download the ADB
-* Make sure you have ADB in to your machine first [See here](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+* Make sure you have ADB in to your machine first: [See here](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
 # How to run
 
