@@ -4,7 +4,7 @@ DEFAULT='\033[0m';
 YELLOW='\033[1;33m';
 CYAN='\033[0;36m';
 
-tv_local_ip='192.168.0.33';
+tv_local_ip='your tv local ip';
 
 echo "[🔌] Disconnecting from ADB in case is connected somewhere else";
 adb disconnect;
