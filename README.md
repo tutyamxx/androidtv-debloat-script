@@ -9,7 +9,7 @@
 ```bash
 adb shell cmd package list packages "|cut -f 2 -d": >> ~/Desktop/packages.txt
 ```
-* Copy all the apps line by line into a `bloat.txt` file in the **SAME** directory with `uninstall-bloat.sh` script
+* Copy all the app names that you want to uninstall, line by line into a `bloat.txt` file in the **SAME** directory with `uninstall-bloat.sh` script
 * Make sure you have `enabled USB debugging` in your `Developer` settings.
 * Run this script using the command below
 ```bash
