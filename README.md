@@ -14,7 +14,7 @@ adb connect <your tv local ip here>:5555
 ```
 * Then, you need to list out all your Android TV installed apps via the command below
 ```bash
-adb shell cmd package list packages "|cut -f 2 -d": >> ~/Desktop/packages.txt
+adb shell cmd package list packages "|cut -f 2 -d": >> path/to/your/desktop/packages.txt
 ```
 * Copy all the app names that you want to uninstall, line by line into a `bloat.txt` file in the **SAME** directory with `uninstall-bloat.sh` script
 * Make sure you have `enabled USB debugging` located in your `Developer` settings on your Android TV
