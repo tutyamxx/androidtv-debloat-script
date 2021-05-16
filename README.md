@@ -9,7 +9,7 @@
 ```bash
 adb connect <your tv local ip here>:5555
 ```
-* then, you need to list out all your Android TV installed apps via the command below
+* Then, you need to list out all your Android TV installed apps via the command below
 ```bash
 adb shell cmd package list packages "|cut -f 2 -d": >> ~/Desktop/packages.txt
 ```
