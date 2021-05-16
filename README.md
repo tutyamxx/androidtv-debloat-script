@@ -1,6 +1,6 @@
 # Info
 
-* ADB Shell script to uninstall all bloated apps that comes with some Android TV's
+* ADB Shell script to uninstall all bloated apps that comes with some Android TV's, that cannot be uninstalled using the TV UI with the remote
 
 # How to run
 
