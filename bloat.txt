@@ -29,3 +29,14 @@ org.droidtv.nettvapp4655
 org.droidtv.freeviewplayers
 com.google.android.youtube.tv
 com.google.android.youtube.tvmusic
+org.droidtv.nettvapp1814
+com.mgmedia.androidApp
+org.droidtv.nettvapp4655
+org.droidtv.nettvapp4771
+org.droidtv.nettvapp5512
+org.droidtv.android.fitness
+org.droidtv.nettvapp5527
+com.singa.client
+org.droidtv.nettvapp5326
+uk.co.freeview.bbc_sounds
+tv.pluto.android
